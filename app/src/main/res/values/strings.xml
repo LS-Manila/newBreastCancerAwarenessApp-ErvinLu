@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">BreastCancerAwarenessApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Filipino</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string-array name="optionsE">
+        <item>Overview and Facts</item>
+        <item>Symptoms and Types</item>
+        <item>Diagnosis and Tests</item>
+        <item>Treatment and Care</item>
+        <item>Living and Managing</item>
+        <item>Supports and Resources</item>
+    </string-array>
+
+    <string-array name="optionsF">
+        <item>Pagkalahatang-ideya</item>
+        <item>Sintomas at Uri</item>
+        <item>Pagsusuri</item>
+        <item>Panggagamot at Pangangalaga</item>
+        <item>Pamumuhay</item>
+        <item>Suporta</item>
+    </string-array>
+
+    <string-array name="optionsC">
+        <item>概观和真情</item>
+        <item>症状和类型</item>
+        <item>诊断和测试</item>
+        <item>治疗和看护</item>
+        <item>生活方式</item>
+        <item>帮助和资源</item>
+    </string-array>
+
+    <string name="about">Breast Awareness App\n\n
+
+    Instructions:\n
+    Step 1: Choose language\n
+    Step 2: Select what you want to know\n
+    Step 3: Set date for next check-up	(tentative)\n\n
+
+    Feautures:\n
+    - Different language support (English, Chinese, Filipino)\n
+    - Set date of check-up\n\n
+
+    Feautures on next update:\n
+    (No additional features yet)\n\n
+
+    Support Information:\n
+    Breast Cancer Awareness App was developed by:\n\n
+
+    Ervin Lester Lu\n
+    Email: ervin_1017@yahoo.com.ph\n\n
+
+    Jerald Steven Limqueco\n
+    Email: jerald_limqueco@dlsu.edu.ph\n\n
+
+    All Rights Reserved</string>
+
+    <string name="title_activity_english">English</string>
+    <string name="title_activity_chinese">Chinese</string>
+    <string name="title_activity_filipino">Filipino</string>
+    <string name="title_activity_overview_and_facts">OverviewAndFacts</string>
+    <string name="title_activity_symptoms_and_types">SymptomsAndTypes</string>
+    <string name="title_activity_diagnosis_and_tests">DiagnosisAndTests</string>
+    <string name="title_activity_treatment_and_care">TreatmentAndCare</string>
+    <string name="title_activity_living_and_managing">LivingAndManaging</string>
+    <string name="title_activity_support_and_resources">SupportAndResources</string>
+    <string name="title_activity_help">Help</string>
+
+</resources>
