@@ -1,0 +1,415 @@
+<resources>
+    <string name="app_name">Reasons For Hope</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Filipino</item>
+        <item>Chinese</item>
+    </string-array>
+
+    <string-array name="optionsE">
+        <item>Overview and Facts</item>
+        <item>Symptoms and Types</item>
+        <item>Diagnosis and Tests</item>
+        <item>Treatment and Care</item>
+        <item>Living and Managing</item>
+        <item>Supports and Resources</item>
+    </string-array>
+
+    <string-array name="optionsF">
+        <item>Pagkalahatang-ideya</item>
+        <item>Sintomas at Uri</item>
+        <item>Pagsusuri</item>
+        <item>Panggagamot at Pangangalaga</item>
+        <item>Pamumuhay</item>
+        <item>Suporta</item>
+    </string-array>
+
+    <string-array name="optionsC">
+        <item>概观和真情</item>
+        <item>症状和类型</item>
+        <item>诊断和测试</item>
+        <item>治疗和看护</item>
+        <item>生活方式</item>
+        <item>帮助和资源</item>
+    </string-array>
+
+    <string name="about">Breast Awareness App\n\n
+
+    Instructions:\n
+    Step 1: Choose language\n
+    Step 2: Select what you want to know\n\n
+
+    Features:\n
+    - Different language support (English, Chinese)\n\n
+
+    Feautures on next update:\n
+    Filipino language\n
+    Set date for next check-up\n\n
+
+    Support Information:\n
+    Reasons For Hope was developed by:\n\n
+
+    Ervin Lester Lu\n
+    Email: ervin_1017@yahoo.com.ph\n\n
+
+    Jerald Steven Limqueco\n
+    Email: jerald_limqueco@dlsu.edu.ph\n\n
+
+    All Rights Reserved</string>
+
+    <string name="overviewandfacts">
+    Breast Cancer Overview\n\n
+    \tThe first sign of breast cancer often is a breast lump or an abnormal mammogram. Breast cancer stages range from early, curable breast cancer to metastatic breast cancer, with a variety of breast cancer treatments. Male breast cancer is not uncommon and must be taken seriously.
+    </string>
+
+    <string-array name="overview">
+        <item>Breast Anatomy</item>
+        <item>What is Breast Cancer?</item>
+        <item>What are the Stages of Breast Cancer?</item>
+        <item>Are you at Risk?</item>
+        <item>How to Prevent Breast Cancer</item>
+    </string-array>
+
+    <string name="symptomsandtypes">
+    Symptoms and Types\n\n
+    \tBreast lumps aren’t the only possible sign of breast cancer, and most breast lumps aren’t cancer. Read about the signs, symptoms, and types of breast cancer.
+    </string>
+
+    <string-array name="symptoms">
+        <item>What are Breast Cancer Symptoms?</item>
+        <item>What are the Types of Breast Cancer?</item>
+        <item>What are the Complications?</item>
+    </string-array>
+
+    <string name="diagnosisandtests">
+    Diagnosis and Tests\n\n
+    \tEarly detection can be a big plus in treating breast cancer. Learn about breast cancer tests and diagnosis. Due for a mammogram? Please make your appointment now.
+    </string>
+
+    <string-array name="diagnosis">
+        <item>Breast Cancer Detection</item>
+        <item>Tests for Breast Cancer</item>
+    </string-array>
+
+    <string name="treatmentandcare">
+    Treatment and Care\n\n
+    \tThere are more than 2 million breast cancer survivors in the U.S., and modern medicine is a big reason for that success. Learn about breast cancer treatment and care.
+    </string>
+
+    <string-array name="treatment">
+        <item>What are the Treatment for Breast Cancer?</item>
+        <item>Taking Care of Yourself</item>
+    </string-array>
+
+    <string name="livingandmanaging">
+    Living and Managing\n\n
+    \tCoping with breast cancer can be draining and stressful. Get facts and tips on managing and living with breast cancer during treatment and beyond.
+    </string>
+
+    <string-array name="living">
+        <item>Exercise</item>
+        <item>Nutrition and Diet</item>
+        <item>Tips for the Family</item>
+    </string-array>
+
+    <string name="supportandresources">
+    Support and Resources\n\n
+    \tMany people and organizations are ready to help you handle breast cancer, including clinical trials and support groups. Tap into these breast cancer resources.
+    </string>
+
+    <string-array name="support">
+        <item>Support Groups</item>
+        <item>Hotlines</item>
+    </string-array>
+
+    <string name="prevention">
+        How to Prevent Breast Cancer\n\n
+        1. Regular aerobic exercise may offer some protection. Studies have found that women who exercised vigorously and often were only half as likely as non-exercisers to get breast cancer. Exercise also can help women with breast cancer better tolerate the side effects of treatment and recover faster after surgery. It can also have a better impact on survival.
+
+        \n\n2. Diet plays a very small but measurable role in breast cancer prevention. Dietary fats may increase your risk of developing breast cancer, and fruits, vegetables, and grains may help to reduce the risk.
+
+        \n\n3. Limit Alcohol Intake
+
+        \n\n4. having regular mammograms.
+
+        \n\n5. Early detection and treatment is still the best strategy for a better cancer outcome.
+
+        \n\nThe following is a common strategy, but ask your doctor exactly what you should do to help prevent breast cancer or find it early:
+
+        \n\n1. Check your breasts once a month, three to five days after your menstrual period ends. Have a thorough medical checkup twice a year, and have annual mammograms. Talk to your doctor about when you should have your first mammogram.
+
+        \n\n2. If you use contraception, ask your doctor about the pros and cons of birth control pills.
+
+        \n\n3. If you are near or in menopause, ask your doctor if you should use hormone replacement therapy to treat menopause symptoms. Studies suggest that hormone replacement, especially therapies with a combination of estrogens and progestins, can increase the risk of breast cancer. You and your doctor can make this decision based on your risk of breast cancer.
+
+        \n\n4. if you are at high risk for breast cancer, certain drugs that block the effects of estrogen, such as raloxifene and tamoxifen, have been shown to reduce the risk of breast cancer. The risks and benefits of using these medications should be discussed with your doctor.
+    </string>
+
+    <string name="risk">
+    Risk Factors for Breast Cancer
+
+    \n\nIn 1940, the lifetime risk of a woman developing breast cancer was 5%, or one in 20. The American Cancer Society estimates that risk to be 13% in 2012, or more than one in 8. In many cases, it\'s not known why a woman gets breast cancer. In fact, 75% of all women with breast cancer have no known risk factors.
+
+    \n\nHowever, having a cancer risk factor, or even several of them, does not necessarily mean that a person will get cancer. Some women with one or more breast cancer risk factors never develop breast cancer, while most women with breast cancer have no apparent risk factors.
+
+    \n\n\nSignificantly higher risk
+
+    \n\nA woman with a history of cancer in one breast is three to four times likelier to develop a new breast cancer, unrelated to the first one, in either the other breast or in another part of the same breast. This is different than a recurrence of the previous breast cancer.
+
+    \n\n\nModerately higher risk
+
+    \n\n1. Getting older. Your risk for breast cancer increases as you age. About 77% of women diagnosed with breast cancer each year are over age 50, and almost 50% are age 65 and older. Consider this: In women 40 to 49 years of age, there is a one in 68 risk of developing breast cancer. In the 50 to 59 age group, that risk increases to one in 37.
+
+    \n\n2. Direct family history. Having a mother, sister, or daughter ("first-degree" relative) who has breast cancer puts a woman at higher risk for the disease. The risk is even greater if this relative developed breast cancer before menopause and had cancer in both breasts. Having one first-degree relative with breast cancer approximately doubles a woman\'s risk, and having two first-degree relatives increases her risk fivefold. Having a male blood relative with breast cancer will also increase a woman\'s risk of the disease.
+
+    \n\n3. Genetics. Carriers of alterations in either of two familial breast cancer genes called BRCA1 or BRCA2 are at higher risk. Women with an inherited alteration in either of these genes have up to an 85% chance of developing breast cancer in their lifetime.
+
+    \n\n4. Breast lesions. A previous breast biopsy result of atypical hyperplasia (lobular or ductal) or lobular carcinoma in situ increases a woman\'s breast cancer risk by four to five times.
+
+    \n\n\nSlightly higher risk
+
+    \n\n1. Distant family history. This refers to breast cancer in more distant relatives such as aunts, grandmothers, and cousins.
+    \n\n2. Previous abnormal breast biopsy. Women with earlier biopsies showing any of the following have a slight increased risk: fibroadenomas with complex features, hyperplasia without atypia, sclerosing adenosis, and solitary papilloma.
+    \n\n3. Age at childbirth. Having your first child after age 35 or never having children puts you at higher risk.
+    \n\n4. Early menstruation. Your risk increases if you began menstruating before age 12.
+    \n\n5. Late menopause. If you begin menopause after age 55, your risk increases.
+    \n\n6. Weight. Being overweight (especially in the waist), with excess caloric and fat intake, increases your risk, especially after menopause.
+    \n\n7. Excessive radiation. This is especially true for women who were given radiation for postpartum mastitis, received prolonged fluoroscopic X-rays for tuberculosis, or who were exposed to a large amount of radiation before age 30 - usually as treatment for cancers such as lymphoma.
+    \n\n8. Other cancer in the family. A family history of cancer of the ovaries, cervix, uterus, or colon increases your risk.
+    \n\n9. Heritage. Female descendents of Eastern and Central European Jews (Ashkenazi) are at increased risk.
+    \n\n10. Alcohol. Use of alcohol is linked to increased risk of developing breast cancer. Compared with nondrinkers, women who consume one alcoholic drink a day have a very small increase in risk, and those who have 2 to 5 drinks daily have about 1.5 times the risk of women who do not drink.
+    \n\n11. Race. Caucasian women are at a slightly higher risk of developing breast cancer than are African-American, Asian, Hispanic, and Native American women. The exception to this is African-American women, who are more likely than Caucasians to have breast cancer under age 40.
+    \n\n12. Hormone Replacement Therapy (HRT). Long-term use of combined estrogen and progesterone increases the risk of breast cancer. This risk seems to return to that of the general population after discontinuing them for five years or longer.
+
+    \n\n\nLow risk
+
+    \n\n1. Pregnancy before age 18
+    \n\n2. Early onset of menopause
+    \n\n3. Surgical removal of the ovaries before age 37
+
+    \n\n\nFactors not related to breast cancer
+
+    \n\n1. Fibrocystic breast changes
+    \n\n2. Multiple pregnancies
+    \n\n3. Coffee or caffeine intake
+    \n\n4. Use of anti-perspirants
+    \n\n5. Wearing underwire bras
+    \n\n6. Having an abortion or miscarriage
+    \n\n7. Using breast implants
+
+
+    \n\nScientists are still investigating whether smoking, high-fat diets, lack of exercise, and environmental pollution increase breast cancer risk. Some studies have suggested that women who are using birth control pills have a very slight increased risk of developing breast cancer. That risk disappears after stopping them for 10 years or more. Still other studies show no relation. More research is under way to confirm these findings.
+
+    \n\nWomen who breastfeed have a reduced risk of breast cancer.
+
+    \n\nAlcohol may be good for your heart in moderation, a new study shows that drinking as little as half a glass of wine a day may raise a woman\'s risk of developing breast cancer.The more alcohol consumed on a regular basis, the greater the risk.
+
+    \n\nAlcohol may change the way the body metabolizes estrogen. Many breast cancers are fueled by the hormone estrogen. Therefore, regular use of alcohol is thought to increase the risk of breast cancer by increasing bloodestrogen levels.
+
+    \n\nWhen compared with teetotalers:
+    \n\n1. Women who drank the equivalent of a half glass of wine a day were 6% more likely to develop breast cancer.
+    \n\n2. Women who drank a glass or two a day faced a 21% increased risk of breast cancer.
+    \n\n3. Those who drank more than two drinks a day were 37% more likely to develop breast cancer.
+
+    \n\nHowever, the risk was much greater in menopausal women. Menopausal women who drank a half glass of wine daily increased their chance of breast cancer by 18%.
+
+    \n\nThe elevated risk was also more pronounced for women whose tumor growth was fueled by the hormones estrogen or progesterone.
+
+    \n\nA sure bet: Follow a healthy lifestyle, with a good diet, exercise, and avoidance of smoking and heavy drinking
+
+    \n\nFor more details, visit http://www.webmd.com/breast-cancer/guide/20050516/alcohol-breast-cancer-risk
+
+    \n\n\nWomen with a family history of breast cancer make up about 5% to 10% of all women with the disease. Having a close relative (mother, sister, or daughter) with breast cancer doubles your risk compared to that of other women.
+
+    \n\nIf any of the following are true for you, there\'s an increased likelihood you carry a breast cancer gene:
+
+    \n\n1. You were diagnosed with breast cancer before age 45.
+    \n\n2. You have several family members diagnosed with breast or ovarian cancer.
+    \n\n3. You have ovarian cancer.
+    \n\n4. You are of Ashkenazi Jewish descent.
+    \n\n5. A male in your family has or had breast cancer.
+    \n\n6. You were diagnosed with bilateral breast cancer (cancer in both breasts).
+    \n\n7. You were diagnosed with triple negative breast cancer before the age of 60.
+
+    \n\n\nBreast Cancer Genes
+    \n\nAbnormalities (mutations) in two genes - BRCA1 and BRCA2 - are the most common causes of hereditary breast cancer, accounting for about 20% to 25% of cases.
+
+    \n\nUsually, BRCA genes help to prevent cancer by creating proteins that keep cells from growing abnormally. If you inherit a mutated BRCA1 or BRCA2, you\'re more likely to develop cancer during your lifetime.
+
+    \n\n\nFamily Ties
+    \n\nIf either of your parents carries one of these mutations, you have a 50% chance of having it as well. And if you have it, you can pass it on to your children. However, it\'s important to note that not everyone who carries these mutated genes will develop cancer.
+
+    \n\n\nKnow the Risks
+    \n\nWomen who inherit the mutated BRCA1 gene have a 55% to 65% risk of developing breast cancer by age 70. Women with the mutated BRCA2 have around a 45% risk.
+
+    \n\nEither mutation brings an increased risk of developing breast cancer at a younger age (before menopause).
+
+    \n\nPeople who have the mutated BRCA1 gene have a 65% risk of breast cancer recurrence. Bilateral breast cancer (cancer in both breasts) is also common in women who carry the mutated BRCA1.
+
+    \n\nBoth mutations also increase your risk of other cancers, especially ovarian cancer.
+
+    </string>
+
+    <string name="anatomy">
+    Each breast has 15 to 20 sections, or lobes, that surround the nipple like spokes on a wheel. Inside these lobes are smaller lobes, called lobules. At the end of each lobule are tiny "bulbs" that produce milk. These structures are linked together by small tubes called ducts, which carry milk to the nipples.
+
+    \n\nThe nipple is in the center of a darker area of skin called the areola. The areola contains small glands, called Montgomery glands, which lubricate the nipple during breast-feeding. Fat fills the spaces between the lobes and ducts. There are no muscles in the breasts, but the pectoral or chest muscles lie under each breast and cover the ribs.
+
+    \n\nEach breast also contains blood vessels, as well as vessels that carry a fluid called lymph. Lymph travels throughout the body through a network called the lymphatic system. The lymphatic system carries cells that help the body fight infections. The lymph vessels lead to the lymph nodes (small, bean-shaped glands).
+
+    \n\nOne group of lymph nodes is located in the armpits, above the collarbone and in the chest. If breast cancer has reached these nodes, it may mean that cancer cells have spread to other parts of the body via the lymphatic system. Lymph nodes are also found in many other parts of the body.
+
+    \n\nBreast development and function depend on the hormones estrogen and progesterone, which are produced in the ovaries. Estrogen elongates the ducts and causes them to create side branches. Progesterone increases the number and size of the lobules in order to prepare the breast for nourishing a baby.
+
+    \n\nAfter ovulation, progesterone makes the breast cells grow and blood vessels enlarge and fill with blood. At this time, the breasts often become engorged with fluid and may be tender and swollen.\n\n
+    </string>
+
+    <string name="whatis">
+    In all forms of cancer, the abnormal tissue that makes up breast cancer is the patient\'s own cells that have multiplied uncontrollably. Those cells may also travel to locations in the body where they are not normally found. When that happens, the cancer is called metastatic.
+
+    \n\nBreast cancer develops in the breast tissue, primarily in the milk ducts (ductal carcinoma) or glands (lobular carcinoma). The cancer is still called and treated as breast cancer even if it is first discovered after the cells have travelled to other areas of the body. In those cases, the cancer is referred to as metastatic or advanced breast cancer.
+
+    \n\nBreast cancer usually begins with the formation of a small, confined tumor (lump), or as calcium deposits (microcalcifications) and then spreads through channels within the breast to the lymph nodes or through the blood stream to other organs. The tumor may grow and invade tissue around the breast, such as the skin or chest wall. Different types of breast cancer grow and spread at different rates - some take years to spread beyond the breast while others grow and spread quickly.
+
+    \n\nSome lumps are benign (not cancerous), however these can be premalignant. The only safe way to distinguish between a benign lump and cancer is to have the tissue examined by a doctor through a biopsy.
+
+    \n\nMen can get breast cancer, too, but they account for just one percent of all breast cancer cases. Among women, breast cancer is the most common cancer and the second leading cause of cancer deaths after lung cancer.
+
+    \n\nIf eight women were to live to be at least 85, one of them would be expected to develop the disease at some point during her life. Two-thirds of women with breast cancer are over 50, and most of the rest are between 39 and 49.
+
+    \n\nFortunately, breast cancer is very treatable if detected early. Localized tumors can usually be treated successfully before the cancer spreads; and in nine out of 10 cases, the woman will live at least another five years. However, late recurrences of breast cancer are common.
+
+    \n\nOnce the cancer begins to spread, treatment becomes difficult, although treatment can often control the disease for years. Improved screening procedures and treatment options mean that at least seven out of 10 women with breast cancer will survive more than five years after initial diagnosis and half will survive more than 10 years.
+    </string>
+
+    <string name="stages">
+    Stage 0. The cancer has been diagnosed early. It started in the breast ducts or milk glands and has stayed there. You\'re likely to hear or see the words in situ, meaning “in the original place.”
+
+        \n\nStage I. Starting at this level, breast cancer is called invasive, meaning it has broken free to attack healthy tissue.
+
+        \n\nStage 1A means the cancer has spread into the fatty breast tissue. The tumor itself is no larger than a shelled peanut, or there may be no tumor
+
+        \n\nStage IB means some cancer cells, but just tiny amounts, have been found in a few lymph nodes.
+
+        \n\nStage II. The cancer has grown, spread, or both.
+
+        \n\nStage IIA means the tumor in the breast is still small, if there\'s one at all. There may be no cancer in the lymph nodes, or it may have spread to as many as three.
+
+        \n\nStage IIB breast tumor is bigger - it may be the size of a walnut or as big as a lime. It may or may not be in any lymph nodes.
+
+        \n\nStage III. The cancer has not spread to bones or organs, but it\'s considered advanced, and it\'s harder to fight.
+
+        \n\nStage IIIA means the cancer has been found in up to nine of the lymph nodes that form a chain from your underarm to your collarbone. Or it has spread to or enlarged the lymph nodes deep in your breast. In some cases there is a large tumor in the breast, but other times there\'s no tumor.
+
+        \n\nStage IIIB means the tumor has grown into the chest wall or skin around your breast, even if it hasn\'t spread to the lymph nodes.
+
+        \n\nStage IIIC means cancer has been found in 10 or more lymph nodes, or has spread above or below your collarbone. It\'s also IIIC if fewer lymph nodes outside the breast are affected but those inside it are enlarged or cancerous.
+
+        \n\nStage IV. Breast cancer cells have spread far away from the breast and lymph nodes right around it. The most common sites are the bones, lungs, liver, and brain. This stage is described as “metastatic,” meaning it has spread beyond the region of the body where it was first found.
+    </string>
+
+    <string name="symptoms">
+    The signs and symptoms of breast cancer include:
+
+    \n\n1. A lump or thickening in or near the breast or in the underarm that persists through the menstrual cycle
+    \n\n2. A mass or lump, which may feel as small as a pea
+    \n\n3. A change in the size, shape, or contour of the breast
+    \n\n4. A blood-stained or clear fluid discharge from the nipple
+    \n\n5. A change in the feel or appearance of the skin on the breast or nipple (dimpled, puckered, scaly, or inflamed)
+    \n\n6. Redness of the skin on the breast or nipple
+    \n\n7. An area that is distinctly different from any other area on either breast
+    \n\n8. A marble-like hardened area under the skin
+
+    \n\nThese changes may be found during a breast self-exam.
+
+    \n\nMedical organizations don\'t agree on the recommendation for breast self-exams, which is an option for women starting in their 20\'s. Doctors should discuss the benefits and limitations of breast self-exams with their patients.
+    </string>
+
+    <string name="exercise">
+    Women with breast cancer who exercise have an improved outcome compared to those who do not. In addition, women with breast cancer who exercised during treatment felt like they had more energy and did not gain as much weight as patients who didn\'t exercise. Swimming, movement and dance, and other programs can offer a physical and emotional boost.
+
+    \n\nExercise for breast cancer survivors usually includes physical therapy to improve strength and range of motion in the arm(s) and moderate aerobic exercise (like walking) for about 30 minutes, three or more times a week. Ask your doctor for a referral to an exercise physiologist or program for people with cancer.
+    </string>
+
+    <string name="nutrition">
+    A balanced, healthy diet can provide the nutrients and energy your body needs to heal after breast cancer. Good nutrition also helps you stay strong and feel your best. Nutritional guidelines for breast cancer patients may be different than the recommendations you are used to. Ask your health care provider for nutrition suggestions. If needed, a dietitian or nutritionist can provide an eating plan customized for your needs.
+
+    \n\nGenerally, diets for breast cancer patients are higher in protein, which provides the building blocks your body needs. They also may be higher in calories. Your treatment diet may be modified if you are gaining weight during treatment, which sometimes happens with breast cancer patients.
+
+    \n\nSome anticancer drugs and other drugs, such as pain medications, may cause constipation. This problem also can occur if your diet lacks enough fluid or fiber, or if you\'ve been in bed for a long time. Your health care provider may suggest you add more fiber to your diet if you have this problem.
+    </string>
+
+    <string name="tipsforfamily">
+    It can be scary to learn that someone you care about has breast cancer. You might feel sad or worried and wonder how you can help her get through it.
+
+    \n\n\nWith the right steps, you can make things easier for your loved one and yourself after her diagnosis and during treatment. Here are some tips for family and friends of someone with breast cancer:
+
+    \n\n1. Write your questions down so you don\'t forget them. If it\'s OK with your loved one, you can go with her to an appointment and ask the doctor about them.
+    \n\n2. You may want to let other people know what you\'re going to ask before you go.
+    \n\n3. Be prepared for changes in your loved one\'s behavior and mood. Medications, side effects from treatment, and stress may make her feel depressed, angry, or tired.
+    \n\n4. Encourage her to be active and to do as much for herself as possible. It will help her feel a sense of control.
+    \n\n5. Don\'t forget to take care of yourself, too. Be sure you get enough sleep, eat well, and take some time off for yourself. If you stay well, it will be easier to help your loved one.
+    \n\n6. Ask other family members and friends to pitch in, too. They can bring meals, take the dog for a walk, or offer rides to doctor\'s appointments. Most people will appreciate the chance to help.
+
+    \n\n\nA loved one\'s illness can be stressful for you, too. To keep your worries from taking over:
+
+    \n\n1. Try to keep a positive attitude.
+    \n\n2. Accept that there are events you cannot control.
+    \n\n3. Find some activities that help you relax. Take a walk, listen to music, or practice meditation or yoga.
+    \n\n4. Exercise regularly. It\'s a great way to fight tension, and it can help your body be better prepared to deal with stress.
+    \n\n5. Rest and sleep. Your body needs time to recover from stressful events. Don\'t rely on alcohol or drugs to reduce stress.
+    \n\n6. Think about joining a support group for family and friends of people with breast cancer. It might help to talk about what you\'re going through with other people who understand what it\'s like.
+    </string>
+
+    <string name="hotline">
+    Philippine Cancer Society
+    \nContact Number
+    \n\nTelephone Number: (632)734 2126 or 733 3486
+    \n\nFax Number: (632)734 2127
+    \n\nCellphone Number: (0917)576 2909
+    </string>
+
+
+    <string name="title_activity_english">English</string>
+    <string name="title_activity_chinese">Chinese</string>
+    <string name="title_activity_filipino">Filipino</string>
+    <string name="title_activity_overview_and_facts">OverviewAndFacts</string>
+    <string name="title_activity_symptoms_and_types">SymptomsAndTypes</string>
+    <string name="title_activity_diagnosis_and_tests">DiagnosisAndTests</string>
+    <string name="title_activity_treatment_and_care">TreatmentAndCare</string>
+    <string name="title_activity_living_and_managing">LivingAndManaging</string>
+    <string name="title_activity_support_and_resources">SupportAndResources</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_overview_anf_facts_c">OverviewAnfFactsC</string>
+    <string name="title_activity_overview_and_facts_c">OverviewAndFactsC</string>
+    <string name="title_activity_symptoms_and_types_c">SymptomsAndTypesC</string>
+    <string name="title_activity_diagnosis_and_tests_c">DiagnosisAndTestsC</string>
+    <string name="title_activity_treatment_and_care_c">TreatmentAndCareC</string>
+    <string name="title_activity_living_and_managing_c">LivingAndManagingC</string>
+    <string name="title_activity_support_and_resources_c">SupportAndResourcesC</string>
+    <string name="title_activity_overview_and_facts_f">OverviewAndFactsF</string>
+    <string name="title_activity_symptoms_and_types_f">SymptomsAndTypesF</string>
+    <string name="title_activity_diagnosis_and_tests_f">DiagnosisAndTestsF</string>
+    <string name="title_activity_treatment_and_care_f">TreatmentAndCareF</string>
+    <string name="title_activity_living_and_managing_f">LivingAndManagingF</string>
+    <string name="title_activity_support_and_resources_f">SupportAndResourcesF</string>
+    <string name="title_activity_splash">Reasons For Hope</string>
+    <string name="title_activity_prevention">Prevention</string>
+    <string name="title_activity_risk">Risk</string>
+    <string name="title_activity_fiveyear">Fiveyear</string>
+    <string name="title_activity_breast_anatomy">BreastAnatomy</string>
+    <string name="title_activity_what_is_breast_cancer">WhatIsBreastCancer</string>
+    <string name="title_activity_stages">Stages</string>
+    <string name="title_activity_symptoms">Symptoms</string>
+    <string name="title_activity_splash2">Splash2</string>
+    <string name="title_activity_exercise">Exercise</string>
+    <string name="title_activity_nutrition">Nutrition</string>
+    <string name="title_activity_tips_for_family">TipsForFamily</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_hotline">Hotline</string>
+
+</resources>

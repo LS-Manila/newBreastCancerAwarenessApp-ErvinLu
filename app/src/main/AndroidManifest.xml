@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lufamily.breastcancerawarenessapp" >
+
+    <user-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <!--
+ The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but are recommended.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher2"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".English"
+            android:label="@string/title_activity_english" >
+        </activity>
+        <activity
+            android:name=".Chinese"
+            android:label="@string/title_activity_chinese" >
+        </activity>
+        <activity
+            android:name=".Filipino"
+            android:label="@string/title_activity_filipino" >
+        </activity>
+        <activity
+            android:name=".OverviewAndFacts"
+            android:label="@string/title_activity_overview_and_facts" >
+        </activity>
+        <activity
+            android:name=".SymptomsAndTypes"
+            android:label="@string/title_activity_symptoms_and_types" >
+        </activity>
+        <activity
+            android:name=".DiagnosisAndTests"
+            android:label="@string/title_activity_diagnosis_and_tests" >
+        </activity>
+        <activity
+            android:name=".TreatmentAndCare"
+            android:label="@string/title_activity_treatment_and_care" >
+        </activity>
+        <activity
+            android:name=".LivingAndManaging"
+            android:label="@string/title_activity_living_and_managing" >
+        </activity>
+        <activity
+            android:name=".SupportAndResources"
+            android:label="@string/title_activity_support_and_resources" >
+        </activity>
+        <activity
+            android:name=".Help"
+            android:label="@string/title_activity_help" >
+        </activity>
+        <activity
+            android:name=".OverviewAndFactsC"
+            android:label="@string/title_activity_overview_and_facts_c" >
+        </activity>
+        <activity
+            android:name=".SymptomsAndTypesC"
+            android:label="@string/title_activity_symptoms_and_types_c" >
+        </activity>
+        <activity
+            android:name=".DiagnosisAndTestsC"
+            android:label="@string/title_activity_diagnosis_and_tests_c" >
+        </activity>
+        <activity
+            android:name=".TreatmentAndCareC"
+            android:label="@string/title_activity_treatment_and_care_c" >
+        </activity>
+        <activity
+            android:name=".LivingAndManagingC"
+            android:label="@string/title_activity_living_and_managing_c" >
+        </activity>
+        <activity
+            android:name=".SupportAndResourcesC"
+            android:label="@string/title_activity_support_and_resources_c" >
+        </activity>
+        <activity
+            android:name=".OverviewAndFactsF"
+            android:label="@string/title_activity_overview_and_facts_f" >
+        </activity>
+        <activity
+            android:name=".SymptomsAndTypesF"
+            android:label="@string/title_activity_symptoms_and_types_f" >
+        </activity>
+        <activity
+            android:name=".DiagnosisAndTestsF"
+            android:label="@string/title_activity_diagnosis_and_tests_f" >
+        </activity>
+        <activity
+            android:name=".TreatmentAndCareF"
+            android:label="@string/title_activity_treatment_and_care_f" >
+        </activity>
+        <activity
+            android:name=".LivingAndManagingF"
+            android:label="@string/title_activity_living_and_managing_f" >
+        </activity>
+        <activity
+            android:name=".SupportAndResourcesF"
+            android:label="@string/title_activity_support_and_resources_f" >
+        </activity>
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Prevention"
+            android:label="@string/title_activity_prevention" >
+        </activity>
+        <activity
+            android:name=".Risk"
+            android:label="@string/title_activity_risk" >
+        </activity>
+        <activity
+            android:name=".BreastAnatomy"
+            android:label="@string/title_activity_breast_anatomy" >
+        </activity>
+        <activity
+            android:name=".WhatIsBreastCancer"
+            android:label="@string/title_activity_what_is_breast_cancer" >
+        </activity>
+        <activity
+            android:name=".Stages"
+            android:label="@string/title_activity_stages" >
+        </activity>
+        <activity
+            android:name=".Symptoms"
+            android:label="@string/title_activity_symptoms" >
+        </activity>
+        <activity
+            android:name=".Splash2"
+            android:label="@string/title_activity_splash2" >
+        </activity>
+        <activity
+            android:name=".Exercise"
+            android:label="@string/title_activity_exercise" >
+        </activity>
+        <activity
+            android:name=".Nutrition"
+            android:label="@string/title_activity_nutrition" >
+        </activity>
+        <activity
+            android:name=".TipsForFamily"
+            android:label="@string/title_activity_tips_for_family" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" >
+        </activity>
+        <activity
+            android:name=".Hotline"
+            android:label="@string/title_activity_hotline" >
+        </activity>
+    </application>
+
+</manifest>
